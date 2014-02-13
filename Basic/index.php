@@ -6,7 +6,10 @@
 </head>
 <body>
     <?php
-		echo "Basic";
+		echo "Basic website";
 	?>
+	<script>
+		alert("Cao sine");
+	</script>
 </body>
 </html>
