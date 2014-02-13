@@ -2,18 +2,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Basic example site</title>
 </head>
-<frameset>
-    <frame>
-    <frame>
-    <noframes>
-    <body>
-    <p>This page uses frames. The current browser you are using does not support frames.</p>
+<body>
     <?php
 		echo "Basic";
 	?>
-    </body>
-    </noframes>
-</frameset>
+</body>
 </html>
